@@ -7,3 +7,5 @@ The Toxic Spans Detection task concerns the evaluation of systems that detect th
 Semeval Task 5 : https://competitions.codalab.org/competitions/25623
 
 Task Website : https://sites.google.com/view/toxicspans
+
+All the model weights can be found on the following drive link : https://drive.google.com/drive/folders/1Ttt11uJB8DYpOy4o0klfrN4ix9PZr2FD?usp=sharing
