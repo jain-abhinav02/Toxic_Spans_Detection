@@ -11,6 +11,11 @@ Github repo : https://github.com/ipavlopoulos/toxic_spans
 
 Toxic span detection is Task 5 in [SemEval-2021](https://semeval.github.io/SemEval2021/)
 
+---
+### Team members :
+1. [Ashutosh Thakur Suman](https://github.com/ashutoshsuman99)
+2. [Abhinav Jain](https://github.com/jain-abhinav02)
+
 All of our work on this task has been saved on the following drive link
 https://drive.google.com/drive/folders/1Ttt11uJB8DYpOy4o0klfrN4ix9PZr2FD?usp=sharing
 
