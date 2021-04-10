@@ -15,7 +15,13 @@ Codalab page : https://competitions.codalab.org/competitions/25623 \
 Task Github repo : https://github.com/ipavlopoulos/toxic_spans 
 
 ---
+### Solution Approach
+Our solution is built upon RoBERTa language model and Conditional Random Fields (CRF). We pre-trained RoBERTa on Civil Comments dataset, enabling it to create better contextual
+representation for this task. We also employed the semi-supervised learning technique of selftraining, which allowed us to extend our training dataset. In addition to these, we also identified some pre-processing steps that significantly improved our F1 score. Our proposed system achieved a rank of 41 with an F1 score of 66.16%.
+
+---
 ### Team members :
+
 1. [Thakur Ashutosh Suman](https://github.com/ashutoshsuman99)
 2. [Abhinav Jain](https://github.com/jain-abhinav02)
 
