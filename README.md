@@ -17,7 +17,10 @@ Task Github repo : https://github.com/ipavlopoulos/toxic_spans
 ---
 ### Solution Approach
 Our solution is built upon RoBERTa language model and Conditional Random Fields (CRF). We pre-trained RoBERTa on Civil Comments dataset, enabling it to create better contextual
-representation for this task. We also employed the semi-supervised learning technique of selftraining, which allowed us to extend our training dataset. In addition to these, we also identified some pre-processing steps that significantly improved our F1 score. Our proposed system achieved a rank of 41 with an F1 score of 66.16%.
+representation for this task. We also employed the semi-supervised learning technique of selftraining, which allowed us to extend our training dataset. In addition to these, we also identified some pre-processing steps that significantly improved our F1 score. Our proposed system achieved a rank of 41 with an F1 score of 66.16%. 
+
+
+Link to the paper : https://aclanthology.org/2021.semeval-1.118/
 
 ---
 ### Team members :
